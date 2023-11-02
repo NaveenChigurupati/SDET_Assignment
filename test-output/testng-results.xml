@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-03T00:17:50 IST" name="Default suite" finished-at="2023-11-03T00:18:12 IST" duration-ms="22445">
+    <groups>
+    </groups>
+    <test started-at="2023-11-03T00:17:50 IST" name="Default test" finished-at="2023-11-03T00:18:12 IST" duration-ms="22445">
+      <class name="seleniumWithJava.SeleniumTask">
+        <test-method is-config="true" signature="initialiseBrowser(org.testng.ITestResult)[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:17:50 IST" name="initialiseBrowser" finished-at="2023-11-03T00:17:56 IST" duration-ms="6543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SeleniumTask.averifyMakemyTripLogo()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method signature="averifyMakemyTripLogo()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:17:56 IST" name="averifyMakemyTripLogo" finished-at="2023-11-03T00:18:01 IST" duration-ms="4521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- averifyMakemyTripLogo -->
+        <test-method is-config="true" signature="close()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:18:01 IST" name="close" finished-at="2023-11-03T00:18:03 IST" duration-ms="1643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialiseBrowser(org.testng.ITestResult)[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:18:03 IST" name="initialiseBrowser" finished-at="2023-11-03T00:18:06 IST" duration-ms="3100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SeleniumTask.bverifyMakemyTrip()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method signature="bverifyMakemyTrip()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:18:06 IST" name="bverifyMakemyTrip" finished-at="2023-11-03T00:18:11 IST" duration-ms="5749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bverifyMakemyTrip -->
+        <test-method is-config="true" signature="close()[pri:0, instance:seleniumWithJava.SeleniumTask@8458f04]" started-at="2023-11-03T00:18:11 IST" name="close" finished-at="2023-11-03T00:18:12 IST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- seleniumWithJava.SeleniumTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
